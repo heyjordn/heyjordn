@@ -1,20 +1,11 @@
-# heyjordn
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://heyjordn.com">
+    <img alt="JordanJones" src="https://github.com/heyjordn/heyjordn/blob/master/static/apple-icon-120x120.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Jordan Jones
+</h1>
 
-## Build Setup
-
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Welcome!
