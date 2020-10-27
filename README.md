@@ -18,7 +18,7 @@ I currently work full-time as the lead designer and lead frontend engineer on [O
 
 ### Let's talk ✍️
 
-You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-jones-b44722114/), DMs are open.
+You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%8C%8A-jordan-jones-b44722114/), DMs are open.
 
 ### Stats :dizzy:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyjordn&theme=buefy&layout=compact)
