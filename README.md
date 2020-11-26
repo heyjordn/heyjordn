@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://heyjordn.com">
     <img alt="JordanJones" src="https://github.com/heyjordn/heyjordn/blob/master/static/apple-icon-120x120.png" width="60" />
