@@ -19,7 +19,7 @@
         Jordan Jones
       </p>
       <p class="text-gray-600">
-        Senior Software Engineer at
+        Product Design Engineer at
         <a class="text-gray-800" href="https://orbaone.com/">Orba</a> working on
         <a href="https://orbaone.com/">Orba One</a>.
       </p>
