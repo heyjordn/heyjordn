@@ -11,9 +11,9 @@
 
 I'm a software engineer based in Jamaica, a lot of my work is focused on exploring and learning new web technologies, which is probably why you're here.
 
-### What currently working on 💻
+### What I'm currently working on 💻
 
-I currently work full-time as the lead designer and lead frontend engineer on [Orba One](https://orbaone.com).
+I currently work full-time as the Product Design Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com).
 
 ### Let's talk ✍️
 
