@@ -7,9 +7,7 @@
       <div class="w-4/5 md:w-1/2 text-right">
         <a class="mr-4" href="https://twitter.com/jord_njones">Twitter</a>
         <a class="mr-4" href="https://github.com/heyjordn">Github</a>
-        <a
-          class="mr-4"
-          href="https://www.linkedin.com/in/jordan-jones-b44722114/"
+        <a class="mr-4" href="https://www.linkedin.com/in/heyjordn/"
           >LinkedIn</a
         >
       </div>
@@ -29,9 +27,10 @@
         <div class="text-left">
           <p class="font-bold mb-3">Current Projects</p>
           <p>
-            I currently work full-time as the lead designer and lead frontend
-            engineer on Orba One. More on that over at
-            <a href="https://orbaone.com">orbaone.com</a>.
+            I currently work full-time as the lead product design engineer on
+            Orba One and StaffGenius. More on that over at
+            <a href="https://orbaone.com">orbaone.com</a>
+            <a href="https://staffgenius.io">staffgenius.io</a>.
           </p>
         </div>
       </div>
