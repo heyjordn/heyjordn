@@ -13,11 +13,15 @@ I'm a software engineer based in Jamaica, a lot of my work is focused on explori
 
 ### What I'm currently working on 💻
 
-I currently work full-time as the Product Design Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com).
+I currently work full-time as the Product Design Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com) and [Staff Genius](https://staffgenius.io).
 
-### Let's talk ✍️
+### Let's talk ✉️
 
-You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%8C%8A-jordan-jones-b44722114/), DMs are open.
+You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/heyjordn/), DMs are open.
+
+### We Blogging Now? ✍️
+
+Yeah, I recently added my hog-pog blog over at [heyjordn.com/blog](https://heyjordn.com/blog)
 
 ### Stats :dizzy:
 Ahh yes, the numbers.
