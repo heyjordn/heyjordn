@@ -27,7 +27,7 @@
         href="https://www.linkedin.com/in/heyjordn/"
         >LinkedIn</a
       >
-      <nuxt-link to="/blog" class="mr-4">Blog</nuxt-link>
+      <nuxt-link to="/blog">Blog</nuxt-link>
     </div>
   </div>
 </template>

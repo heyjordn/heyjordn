@@ -1,11 +1,19 @@
 <template>
   <div class="w-full">
     <navbar />
-    <div class="flex w-full justify-between">
-      <div class="flex">
-        <p>{{ formatDate(article.createdAt) }}</p>
+
+    <div class="container max-w-3xl flex flex-col w-full mx-auto">
+      <nuxt-link to="/blog" class="container max-w-3xl mx-auto my-8">
+        Go Back
+      </nuxt-link>
+      <div class="flex w-full justify-between items-center">
+        <div>
+          <h2 class="text-4xl font-bold mb-6">{{ article.title }}</h2>
+        </div>
+        <div class="flex">
+          <p>{{ formatDate(article.createdAt) }}</p>
+        </div>
       </div>
-      <div></div>
     </div>
     <article class="container max-w-3xl mx-auto">
       <nuxt-content :document="article" />
@@ -31,3 +39,16 @@ export default {
   },
 }
 </script>
+<style>
+.nuxt-content h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
+.nuxt-content h3 {
+  font-weight: bold;
+  font-size: 19px;
+}
+.nuxt-content p {
+  margin-bottom: 20px;
+}
+</style>
