@@ -12,22 +12,31 @@
     </div>
 
     <div
-      class="calendly-inline-widget flex-auto h-full"
-      data-url="https://calendly.com/heyjordn"
+      id="calendly-booking"
+      class="flex-auto h-full"
       style="min-width: 320px; height: 750px;"
     ></div>
-    <script
-      type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async
-    ></script>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({
+  mounted() {
+    // @ts-ignore
+    const Calendly = window.Calendly
+    if (Calendly) {
+      Calendly.initInlineWidget({
+        url:
+          'https://calendly.com/heyjordn?hide_landing_page_details=1&hide_gdpr_banner=1',
+        parentElement: document.getElementById('calendly-booking'),
+        prefill: {},
+        utm: {},
+      })
+    }
+  },
+})
 </script>
 
 <style></style>
