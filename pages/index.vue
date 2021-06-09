@@ -54,7 +54,7 @@
           <p class="font-bold mb-3">Consulting</p>
           <p>
             Choosing the <b>right</b> tech stack can be a real challenge. Feel
-            free to schedule a consultation, I'm heare to help.
+            free to schedule a consultation, I'm here to help.
             <nuxt-link to="/booking">Let's Talk</nuxt-link>.
           </p>
         </div>
