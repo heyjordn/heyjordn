@@ -10,9 +10,13 @@
         <a href="https://orbaone.com/">Orba One</a>.
       </p>
       <hr class="my-6" />
-      <div class="flex my-4 items-center">
-        <img src="~/assets/stack.png" alt="Orba One" class="h-24 mr-4" />
-        <div class="text-left">
+      <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
+        <img
+          src="~/assets/stack.png"
+          alt="Orba One"
+          class="h-24 mr-0 md:mr-4"
+        />
+        <div class="text-center md:text-left">
           <p class="font-bold mb-3">Current Projects</p>
           <p>
             Currently working full-time as the lead engineer on Orba One and
@@ -25,9 +29,13 @@
           </p>
         </div>
       </div>
-      <div class="flex my-4 items-center">
-        <img src="~/assets/open-source.png" alt="Orba One" class="h-24 mr-4" />
-        <div class="text-left">
+      <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
+        <img
+          src="~/assets/open-source.png"
+          alt="Orba One"
+          class="h-24 mr-0 md:mr-4"
+        />
+        <div class="text-center md:text-left">
           <p class="font-bold mb-3">Open Source</p>
           <p>
             I publish tools, tutorials and side projects occassionally. More on
@@ -36,9 +44,13 @@
           </p>
         </div>
       </div>
-      <div class="flex my-4 items-center">
-        <img src="~/assets/booking.png" alt="Orba One" class="h-24 mr-4" />
-        <div class="text-left">
+      <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
+        <img
+          src="~/assets/booking.png"
+          alt="Orba One"
+          class="h-24 mr-0 md:mr-4"
+        />
+        <div class="text-center md:text-left">
           <p class="font-bold mb-3">Consulting</p>
           <p>
             Choosing the <b>right</b> tech stack can be a real challenge. Feel

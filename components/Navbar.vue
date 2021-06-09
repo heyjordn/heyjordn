@@ -28,7 +28,9 @@
         >LinkedIn</a
       >
       <nuxt-link to="/blog">Blog</nuxt-link>
-      <nuxt-link to="/booking" class="primary-button">Let's Talk</nuxt-link>
+      <nuxt-link to="/booking" class="primary-button hidden sm:inline-block"
+        >Let's Talk</nuxt-link
+      >
     </div>
   </div>
 </template>
