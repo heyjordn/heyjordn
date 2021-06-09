@@ -1,6 +1,5 @@
 <template>
   <div class="w-full">
-    <navbar />
     <div class="container max-w-3xl mx-auto">
       <h1 class="text-4xl font-semibold my-8">
         Here are my latest posts 👋.
@@ -40,12 +39,7 @@
   </div>
 </template>
 <script>
-import Navbar from '@/components/Navbar.vue'
-
 export default {
-  components: {
-    navbar: Navbar,
-  },
   async asyncData({ $content }) {
     const articles = await $content('articles')
       .only([

@@ -28,6 +28,7 @@
         >LinkedIn</a
       >
       <nuxt-link to="/blog">Blog</nuxt-link>
+      <nuxt-link to="/booking" class="primary-button">Let's Talk</nuxt-link>
     </div>
   </div>
 </template>
@@ -39,3 +40,11 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+.primary-button {
+  background: #e8227e;
+  @apply px-4 py-2 mx-3;
+  @apply text-white rounded-sm;
+}
+</style>
