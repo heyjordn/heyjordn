@@ -11,32 +11,21 @@
       </p>
     </div>
 
-    <div
-      id="calendly-booking"
-      class="flex-auto h-full"
-      style="min-width: 320px; height: 750px;"
-    ></div>
+    <iframe
+      class="mx-auto overflow-y-hidden"
+      src="https://calendly.com/heyjordn/consulting-meeting-30-minutes"
+      width="450"
+      height="950"
+      scrolling="no"
+      frameborder="0"
+    ></iframe>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({
-  mounted() {
-    // @ts-ignore
-    const Calendly = window.Calendly
-    if (Calendly) {
-      Calendly.initInlineWidget({
-        url:
-          'https://calendly.com/heyjordn?hide_landing_page_details=1&hide_gdpr_banner=1',
-        parentElement: document.getElementById('calendly-booking'),
-        prefill: {},
-        utm: {},
-      })
-    }
-  },
-})
+export default Vue.extend({})
 </script>
 
 <style></style>
