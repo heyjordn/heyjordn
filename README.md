@@ -13,7 +13,7 @@ I'm a software engineer based in Jamaica, a lot of my work is focused on explori
 
 ### What I'm currently working on 💻
 
-I currently work full-time as the Product Design Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com) and [Staff Genius](https://staffgenius.io).
+I currently work full-time as the Fullstack Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com) and [Staff Genius](https://staffgenius.io).
 
 ### Let's talk ✉️
 
