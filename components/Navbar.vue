@@ -44,6 +44,7 @@ export default {
 <style scoped>
 .primary-button {
   background: #e8227e;
+  white-space: nowrap;
   @apply px-4 py-2 mx-3;
   @apply text-white rounded-sm;
 }
