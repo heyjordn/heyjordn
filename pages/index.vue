@@ -6,7 +6,7 @@
         Jordan Jones
       </p>
       <p class="text-gray-600">
-        Product Design Engineer at
+        Senior Software Engineer at
         <a class="text-gray-800" href="https://orbaone.com/">Orba</a> working on
         <a href="https://orbaone.com/">Orba One</a>.
       </p>
@@ -16,8 +16,8 @@
         <div class="text-left">
           <p class="font-bold mb-3">Current Projects</p>
           <p>
-            I currently work full-time as the lead product design engineer on
-            Orba One and StaffGenius.
+            I currently work full-time as the lead engineer on Orba One and
+            StaffGenius.
           </p>
           <p class="mt-2">
             More at
@@ -35,20 +35,6 @@
             <a href="http://www.palisadoes.org/">Palisadoes Organisation</a>, to
             my own (sometime sporadic) side projects. More on those at my
             <a href="https://github.com/heyjordn">Github</a>.
-          </p>
-        </div>
-      </div>
-      <div class="flex my-4 items-center">
-        <img src="~/assets/merch.png" alt="Orba One" class="h-20 mr-4" />
-        <div class="text-left">
-          <p class="font-bold mb-3">
-            Merch <a class="text-sm" href="">new!</a>
-          </p>
-          <p>
-            Merch! You can now purchase some t-shirts, tank tops and accessories
-            I designed. Head over to my lil
-            <a href="https://teespring.com/stores/anaglyph">store</a> on
-            TeeSpring to get your super cool merch today!
           </p>
         </div>
       </div>
