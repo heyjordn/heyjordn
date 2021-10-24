@@ -5,9 +5,14 @@
         Jordan Jones
       </p>
       <p class="text-gray-600">
-        Senior Software Engineer at
-        <a class="text-gray-800" href="https://orbaone.com/">Orba</a> working on
-        <a href="https://orbaone.com/">Orba One</a>.
+        Chief Technology Officer at
+        <a
+          class="text-gray-800"
+          href="https://orba.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Orba</a
+        >
       </p>
       <hr class="my-6" />
       <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
@@ -19,13 +24,28 @@
         <div class="text-center md:text-left">
           <p class="font-bold mb-3">Current Projects</p>
           <p>
-            Currently working full-time as the lead engineer on Orba One and
-            StaffGenius.
-          </p>
-          <p class="mt-2">
-            More at
-            <a href="https://orbaone.com">orbaone.com</a> and
-            <a class="inline" href="https://staffgenius.io">staffgenius.io</a>.
+            Currently building
+            <a href="https://orba.io/" target="_blank" rel="noopener noreferrer"
+              >Orba</a
+            >,
+            <a
+              href="https://orbaone.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Orba One</a
+            >,
+            <a
+              href="https://zafe.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Zafe</a
+            >
+            <a
+              href="https://staffgenius.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >StaffGenius</a
+            >
           </p>
         </div>
       </div>
@@ -68,6 +88,9 @@ import Vue from 'vue'
 
 export default Vue.extend({
   components: {},
+  head: {
+    title: 'Home',
+  },
 })
 </script>
 
