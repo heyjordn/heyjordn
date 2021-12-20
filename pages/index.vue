@@ -20,7 +20,33 @@
             I'm currently the Cheif Technology Officer at
             <a href="https://orba.io/" target="_blank" rel="noopener noreferrer"
               >Orba</a
-            >.
+            >. Working and building
+            <a
+              href="https://orbaone.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Orba One</a
+            ><span>, </span
+            ><a
+              href="https://zafe.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Zafe</a
+            >
+            <span>, </span>
+            <a
+              href="https://staffgenius.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >StaffGenius</a
+            >
+            and
+            <a
+              href="https://metroipo.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Metro</a
+            >
           </p>
         </div>
       </div>

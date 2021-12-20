@@ -10,7 +10,7 @@
         class="mr-4"
         target="_blank"
         rel="noopener noreferer"
-        href="https://twitter.com/jord_njones"
+        href="https://twitter.com/heyjordn"
         >Twitter</a
       >
       <a
