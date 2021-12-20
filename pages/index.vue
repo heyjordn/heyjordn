@@ -1,18 +1,11 @@
 <template>
-  <div class="flex flex-col items-center w-full">
-    <div class="flex-auto text-center max-w-md mx-auto">
+  <div class="flex flex-col w-full">
+    <div class="flex-auto max-w-3xl mx-auto">
       <p class="text-4xl md:text-5xl font-bold">
-        Jordan Jones
+        Hi There! 👋
       </p>
       <p class="text-gray-600">
-        Chief Technology Officer at
-        <a
-          class="text-gray-800"
-          href="https://orba.io/"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Orba</a
-        >
+        I'm Jordan, Senior Software Engineer, based in Kingston Jamaica.
       </p>
       <hr class="my-6" />
       <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
@@ -24,28 +17,10 @@
         <div class="text-center md:text-left">
           <p class="font-bold mb-3">Current Projects</p>
           <p>
-            Currently building
+            I'm currently the Cheif Technology Officer at
             <a href="https://orba.io/" target="_blank" rel="noopener noreferrer"
               >Orba</a
-            >,
-            <a
-              href="https://orbaone.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Orba One</a
-            >,
-            <a
-              href="https://zafe.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Zafe</a
-            >
-            <a
-              href="https://staffgenius.io/"
-              target="_blank"
-              rel="noopener noreferrer"
-              >StaffGenius</a
-            >
+            >.
           </p>
         </div>
       </div>

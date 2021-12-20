@@ -1,32 +1,27 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    class="logo h-20"
-    viewBox="0 0 1056 1056"
+    class="h-12"
+    viewBox="0 0 263 265"
+    fill="none"
   >
-    <g id="Layer_2" data-name="Layer 2">
-      <g id="Layer_1-2" data-name="Layer 1">
-        <polygon
-          points="454.06 211.57 301.01 211.57 301.01 263.27 249.31 263.27 249.31 416.32 352.72 416.32 352.72 314.98 454.06 314.98 454.06 211.57"
-          style="fill: #1c41ff;"
-        />
-        <path
-          d="M806.69,211.57h-242V315H702.25V616.93c0,31.56-8.1,76.76-78.12,104.79C578.5,740,530.57,741,527.48,741s-51-1-96.64-19.3c-70-28-78.12-73.23-78.12-104.79V528H249.31v88.93c0,93.68,51.93,165.43,146.23,202,64.9,25.18,129.24,25.47,131.94,25.47s67-.29,131.95-25.47c94.29-36.6,146.23-108.35,146.23-202Z"
-          style="fill: #ff0076;"
-        />
-      </g>
-    </g>
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M50.5601 149H0C7.89688 214.356 63.5542 265 131.04 265C198.526 265 254.183 214.356 262.08 149H211.44C203.997 186.628 170.812 215 131 215C91.1878 215 58.0024 186.628 50.5601 149Z"
+      fill="#FF0076"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M170 0V50H212V92H262V50V0H212H170Z"
+      fill="#FF0076"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M92 4.02145e-06L92 50H50V92H-2.18557e-06V50V0L50 4.02145e-06H92Z"
+      fill="#1C41FF"
+    />
   </svg>
 </template>
-
-<style>
-.logo {
-  animation: 1s appear;
-}
-
-@keyframes appear {
-  0% {
-    opacity: 0;
-  }
-}
-</style>
