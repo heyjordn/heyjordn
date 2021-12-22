@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+  html {
+    background: #17181a;
+  }
+  p {
+    background: #434343;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html {
+    background: #f7f7f7;
+  }
+}

@@ -17,8 +17,4 @@ export default Vue.extend({
   },
 })
 </script>
-<style>
-html {
-  background: #f7f7f7;
-}
-</style>
+<style></style>
