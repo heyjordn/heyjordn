@@ -90,7 +90,7 @@ import Vue from 'vue'
 export default Vue.extend({
   components: {},
   head: {
-    title: 'Home',
+    title: 'Jordan Jones - Senior Software Engineer, Kingston Jamaica',
   },
 })
 </script>

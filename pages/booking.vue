@@ -25,7 +25,12 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({
+  components: {},
+  head: {
+    title: "Let's Talk! - Book a FREE consultation today.",
+  },
+})
 </script>
 
 <style></style>
