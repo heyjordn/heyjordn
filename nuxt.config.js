@@ -53,7 +53,7 @@ export default {
         title: 'Jordan Jones - Senior Software Engineer, Kingston Jamaica',
         site_name: 'Jordan Jones - Senior Software Engineer, Kingston Jamaica',
         description: `Hi there, I'm Jordan, a Senior Software Engineer based in Kingston, Jamaica. I'm currently the Chief Technology Officer at Orba. Working and building Orba One, Zafe , StaffGenius and Metro. `,
-        img: '/site-image.svg',
+        img: 'https://heyjordan.com/site-image.svg',
         img_size: { width: '1080px', height: '1080px' },
         locale: 'en_US',
         twitter: '@heyjordn',
