@@ -18,7 +18,7 @@
 
 ### 🌊 Hi there 
 
-I'm a software engineer based in Jamaica, a lot of my work is focused on exploring and learning new web technologies, which is probably why you're here.
+I'm a software engineer based in Jamaica, a lot of my work is focused on automating and building enterprise web applications, which is probably why you're here.
 
 ### 💻 What I'm currently working on 
 
