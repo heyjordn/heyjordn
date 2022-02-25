@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Hey, I'm @heyjordn
+  Hey, I'm Jordn
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heyjordn/">
@@ -15,19 +15,19 @@
   </a>
 </div>
 
-### Hi there 🌊
+### 🌊 Hi there 
 
 I'm a software engineer based in Jamaica, a lot of my work is focused on exploring and learning new web technologies, which is probably why you're here.
 
-### What I'm currently working on 💻
+### 💻 What I'm currently working on 
 
 I'm currently the CTO at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com), [Zafe](https://zafe.app) and [Staff Genius](https://staffgenius.io).
 
-### Let's talk ✉️
+### ✉️ Let's talk 
 
 You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/heyjordn/), DMs are open.
 
-### Stats :dizzy:
+### :dizzy: Stats 
 Ahh yes, the numbers.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyjordn)](https://git.io/streak-stats)
