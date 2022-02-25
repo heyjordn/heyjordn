@@ -4,13 +4,13 @@
   </a>
 </p>
 <h1 align="center">
-  Jordan Jones
+  Hey, I'm @heyjordn
 </h1>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rizel-bobb-semple/">
+  <a href="https://www.linkedin.com/in/heyjordn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="twitter.com/blackgirlbytes">
+  <a href="https://twitter.com/heyjordn">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -21,18 +21,16 @@ I'm a software engineer based in Jamaica, a lot of my work is focused on explori
 
 ### What I'm currently working on 💻
 
-I currently work full-time as the Fullstack Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com) and [Staff Genius](https://staffgenius.io).
+I'm currently the CTO at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com), [Zafe](https://zafe.app) and [Staff Genius](https://staffgenius.io).
 
 ### Let's talk ✉️
 
 You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/heyjordn/), DMs are open.
 
-### We Blogging Now? ✍️
-
-Yeah, I recently added my hog-pog blog over at [heyjordn.com/blog](https://heyjordn.com/blog)
-
 ### Stats :dizzy:
 Ahh yes, the numbers.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyjordn)](https://git.io/streak-stats)
 
 ![heyjordn's github stats](https://github-readme-stats.vercel.app/api?username=heyjordn&hide=contribs,issues)
 
