@@ -20,7 +20,8 @@ module.exports = {
       'dark-blue': '#1B1D30',
       'egg-white': '#FAFCFF',
       primary: '#1C41FF',
-      secondary: '#707285',
+      secondary: '#9ea1bc',
+      links: '#7a90ff',
       gray: {
         100: '#f7fafc',
         200: '#edf2f7',

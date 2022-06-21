@@ -10,27 +10,22 @@
         to schedule a consultation, I'm here to help.
       </p>
     </div>
-
-    <iframe
-      class="mx-auto overflow-y-hidden"
-      src="https://calendly.com/heyjordn/consulting-meeting-30-minutes"
-      width="450"
-      height="950"
-      scrolling="no"
-      frameborder="0"
-    ></iframe>
+    <div id="booking-page"></div>
   </div>
 </template>
-
 <script lang="ts">
 import Vue from 'vue'
-
 export default Vue.extend({
   components: {},
   head: {
-    title: "Let's Talk! - Book a FREE consultation today.",
+    title: "Let's Talk! - Book a consultation today.",
   },
 })
 </script>
-
-<style></style>
+<style>
+#booking-page {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+</style>

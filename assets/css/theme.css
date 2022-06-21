@@ -23,7 +23,21 @@
     background: #f7f7f7;
   }
 }
-
+/* Who really needs light theme anyways? */
 html {
-  background: #1B1D30;
+  @apply bg-dark-blue;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  @apply text-egg-white;
+}
+a {
+  @apply underline;
+  @apply text-links;
+}
+p {
+  @apply text-secondary;
+}
+span {
+  @apply text-secondary;
 }
