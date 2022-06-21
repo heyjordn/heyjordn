@@ -18,8 +18,8 @@
         >
         platform.
       </p>
-      <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
-        <div class="text-center md:text-left">
+      <div class="flex flex-col sm:flex-row my-6 md:my-4">
+        <div class="text-left">
           <h6 class="font-bold mb-3">Projects 💻</h6>
           <ul>
             <li>
@@ -77,7 +77,7 @@
         </div>
       </div>
       <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
-        <div class="text-center md:text-left">
+        <div class="text-left">
           <h6 class="font-bold mb-3">Open Source 🌐</h6>
           <p>
             I experiment and publish tools and example repos for whatever I'm
@@ -88,7 +88,7 @@
         </div>
       </div>
       <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
-        <div class="text-center md:text-left">
+        <div class="text-left">
           <h6 class="font-bold mb-3">Certs 📜</h6>
           <p>
             Love cloud native tech (Kubernetes, Terraform, Ansible, Jenkins,
@@ -112,7 +112,7 @@
         </div>
       </div>
       <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
-        <div class="text-center md:text-left">
+        <div class="text-left">
           <h6 class="font-bold mb-3">Consulting 🤝</h6>
           <p>
             Choosing the <b>right</b> tech stack can be a real challenge. Feel

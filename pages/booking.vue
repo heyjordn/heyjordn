@@ -13,10 +13,16 @@
     <div id="booking-page"></div>
   </div>
 </template>
-<script lang="ts">
+<script>
 import Vue from 'vue'
 export default Vue.extend({
   components: {},
+  mounted() {
+    window.SavvyCal('inline', {
+      link: 'heyjordn/chat',
+      selector: '#booking-page',
+    })
+  },
   head: {
     title: "Let's Talk! - Book a consultation today.",
   },
