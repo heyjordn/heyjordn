@@ -1,6 +1,5 @@
 <template>
   <footer class="max-w-md w-full py-4 mx-auto">
-    <hr />
     <div class="w-full flex items-center justify-center">
       <a
         href="https://twitter.com/heyjordn"

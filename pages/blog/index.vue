@@ -2,7 +2,7 @@
   <div class="w-full">
     <div class="container max-w-3xl mx-auto">
       <h1 class="text-4xl font-semibold my-8">
-        Here are my latest posts 👋.
+        Latest posts 📖.
       </h1>
       <ul>
         <li v-for="article of articles" :key="article.slug" class="my-3">

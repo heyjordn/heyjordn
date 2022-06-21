@@ -44,9 +44,13 @@ export default {
 </script>
 
 <style scoped>
+a {
+  @apply no-underline;
+  @apply text-egg-white;
+}
 .primary-button {
-  background: #e8227e;
   white-space: nowrap;
+  @apply bg-primary;
   @apply px-4 py-2 mx-3;
   @apply text-white rounded-sm;
 }

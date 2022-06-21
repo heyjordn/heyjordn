@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col w-full container mx-auto h-screen p-5">
+  <div class="flex flex-col w-full container mx-auto h-screen p-5 bg-dark-blue">
     <navbar class="mb-10" />
     <Nuxt />
     <main-footer />
