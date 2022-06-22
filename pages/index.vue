@@ -193,7 +193,7 @@ export default Vue.extend({
     },
   },
   head: {
-    title: 'Jordan Jones - Senior Software Engineer, Kingston Jamaica',
+    title: 'Senior Software Engineer, Kingston Jamaica',
   },
 })
 </script>
