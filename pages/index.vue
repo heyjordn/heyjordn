@@ -2,7 +2,7 @@
   <div class="flex flex-col w-full">
     <div class="flex-auto max-w-3xl mx-auto">
       <h2 class="text-4xl md:text-5xl font-bold">
-        Hi There! 👋
+        Hi There Team Sony! 👋
       </h2>
       <p>
         I'm Jordan, a DevOps Engineer at
@@ -16,7 +16,10 @@
           rel="noopener noreferrer"
           >Metro</a
         >
-        platform.
+        platform. I would love the opportunity to join your DevOps team through
+        this contract role. I've always been a big fan of the PlayStation and
+        Sony's ability to innovate and stay ahead of the competition. Feel free
+        to reach out if you have any questions.
       </p>
       <div class="flex flex-col sm:flex-row my-6 md:my-4">
         <div class="text-left">
