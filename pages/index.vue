@@ -2,7 +2,7 @@
   <div class="flex flex-col w-full">
     <div class="flex-auto max-w-3xl mx-auto">
       <h2 class="text-4xl md:text-5xl font-bold">
-        Hi There! 👋
+        Hi There Team Fly.io! 👋
       </h2>
       <p>
         I'm Jordan, a DevOps Engineer at
@@ -16,7 +16,11 @@
           rel="noopener noreferrer"
           >Metro</a
         >
-        platform.
+        platform. I'm very curious to learn more about Fly's platform and the
+        broader community surrounding the platform, I noticed the position for
+        Platform Engineer has been closed I would still love the oppourtunity to
+        come in at the ground level as a Support Engineer and learn more about
+        Fly.io. Feel free to reach out to me if you have any questions.
       </p>
       <div class="flex flex-col sm:flex-row my-6 md:my-4">
         <div class="text-left">
