@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://heyjordn.com">
     <img alt="JordanJones" src="https://raw.githubusercontent.com/heyjordn/heyjordn/master/static/android-chrome-192x192.png#gh-dark-mode-only" width="60" />
-    <img alt="JordanJones" src="https://raw.githubusercontent.com/heyjordn/heyjordn/master/static/android-chrome-192x192.png#gh-dark-mode-only" width="60" />
+    <img alt="JordanJones" src="https://raw.githubusercontent.com/heyjordn/heyjordn/master/static/favicon-light.png#gh-light-mode-only" width="60" />
   </a>
 </p>
 <h1 align="center">
