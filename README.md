@@ -13,13 +13,13 @@ I'm a software engineer based in Jamaica, a lot of my work is focused on explori
 
 ### What I'm currently working on 💻
 
-I currently work full-time as the Fullstack Engineer at [Orba](https://orba.io), with my primary focus being on [Orba One](https://orbaone.com) and [Staff Genius](https://staffgenius.io).
+I currently work full-time as the DevOps Engineer at [Orba](https://orba.io).
 
 ### Let's talk ✉️
 
 You can follow me on [Twitter](https://twitter.com/jord_njones) or connect with me on [LinkedIn](https://www.linkedin.com/in/heyjordn/), DMs are open.
 
-### We Blogging Now? ✍️
+### Some writing ✍️
 
 Yeah, I recently added my hog-pog blog over at [heyjordn.com/blog](https://heyjordn.com/blog)
 
