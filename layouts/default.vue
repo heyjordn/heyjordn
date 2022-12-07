@@ -1,7 +1,9 @@
 <template>
   <div class="flex flex-col w-full container mx-auto p-5 bg-dark-blue">
     <navbar class="mb-10" />
-    <Nuxt />
+    <div class="max-w-3xl mx-auto">
+      <Nuxt />
+    </div>
     <main-footer />
   </div>
 </template>

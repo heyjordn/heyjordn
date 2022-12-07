@@ -16,6 +16,14 @@
     <article class="container max-w-3xl mx-auto">
       <nuxt-content :document="article" />
     </article>
+    <div class="flex flex-col justify-center max-w-2xl mx-auto p-2 rounded">
+      <div>
+        <img class="h-16 my-3 mx-auto object-contain rounded-full border-white border-2" src="~/assets/profile.jpeg" alt="Jordan Jones" />
+      </div>
+      <p class="text-sm">Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience. Currently working at <span><a href="https://orba.io">Orba</a></span> on the <span><a
+        href="https://metroipo.com">Metro</a></span> platform.</p>
+
+    </div>
   </div>
 </template>
 <script>

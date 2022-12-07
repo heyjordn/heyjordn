@@ -51,7 +51,7 @@ export default {
         'createdAt',
         'readTime',
       ])
-      .sortBy('createdAt', 'asc')
+      .sortBy('createdAt', 'desc')
       .fetch()
 
     return {

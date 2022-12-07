@@ -6,31 +6,15 @@
       </nuxt-link>
     </div>
     <div class="w-4/5 md:w-1/2 text-right">
-      <a
-        class="mr-4"
-        target="_blank"
-        rel="noopener noreferer"
-        href="https://twitter.com/heyjordn"
-        >Twitter</a
-      >
-      <a
-        class="mr-4"
-        target="_blank"
-        rel="noopener noreferer"
-        href="https://github.com/heyjordn"
-        >Github</a
-      >
-      <a
-        class="mr-4"
-        target="_blank"
-        rel="noopener noreferer"
-        href="https://www.linkedin.com/in/heyjordn/"
-        >LinkedIn</a
-      >
-      <nuxt-link to="/blog">Blog</nuxt-link>
-      <nuxt-link to="/booking" class="primary-button hidden sm:inline-block"
-        >Let's Talk</nuxt-link
-      >
+      <nuxt-link exact-active-class="active-link" class="link" to="/">
+        Home
+      </nuxt-link>
+      <nuxt-link active-class="active-link" class="link" to="/blog">
+        Blog
+      </nuxt-link>
+      <nuxt-link active-class="active-link" class="link" to="/about">
+        About
+      </nuxt-link>
     </div>
   </div>
 </template>
@@ -48,10 +32,10 @@ a {
   @apply no-underline;
   @apply text-egg-white;
 }
-.primary-button {
-  white-space: nowrap;
-  @apply bg-primary;
-  @apply px-4 py-2 mx-3;
-  @apply text-white rounded-sm;
+.link {
+  @apply mr-4 pb-3;
+}
+.active-link {
+  border-bottom: 3px solid #1c41ff;
 }
 </style>
