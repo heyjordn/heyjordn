@@ -97,8 +97,54 @@ export default Vue.extend({
       return new Date(date).toLocaleDateString('en', options)
     },
   },
-  head: {
-    title: 'Senior Software Engineer, Kingston Jamaica',
+  head() {
+    return {
+      title: "Jordan Jones - Senior Software Engineer",
+      meta: [
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: "Jordan Jones - Senior Software Engineer",
+        },
+        {
+          hid: 'og:site_name',
+          property: 'og:site_name',
+          content: 'heyjordn.com',
+        },
+        {
+          name: 'description',
+          content: "Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
+        },
+        {
+          name: 'og:description',
+          content: "Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
+        },
+        {
+          hid: 'og:type',
+          name: 'og:type',
+          content: 'website',
+        },
+        {
+          name: 'og:image',
+          itemprop: 'image',
+          content: "https://og.heyjordn.com/Hi%20There%20%F0%9F%91%8B.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png",
+        },
+        {
+          name: 'og:url',
+          content: `https://heyjordn.com/`,
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: "https://og.heyjordn.com/Hi%20There%20%F0%9F%91%8B.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png",
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+      ],
+    }
   },
 })
 </script>

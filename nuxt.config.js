@@ -48,22 +48,6 @@ export default {
     '@nuxt/typescript-build',
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss',
-    // [
-    //   'nuxt-social-meta',
-    //   {
-    //     url: 'https://heyjordn.com',
-    //     title: 'Jordan Jones - Senior Software Engineer',
-    //     site_name: 'Jordan Jones - Senior Software Engineer',
-    //     description: `Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud
-    //     Native Associate with extensive Software Engineering experience.`,
-    //     img: 'https://heyjordn.com/site-image.png',
-    //     img_size: { width: '1080px', height: '1080px' },
-    //     locale: 'en_US',
-    //     twitter: '@heyjordn',
-    //     twitter_card: 'summary_large_image',
-    //     themeColor: '#17181a',
-    //   },
-    // ],
   ],
   /*
    ** Nuxt.js modules
