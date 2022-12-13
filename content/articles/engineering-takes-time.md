@@ -1,7 +1,9 @@
 ---
-title: "It Takes Time"
+title: "Engineering Takes Time"
 description: "The field of Software Engineering can seem constantly daunting, vast and neverending. If you feel like it's taking a while to get up to speed, you're on the right track."
 readTime: "3 mins"
+date: "December 7, 2022"
+ogImage: "https://og.heyjordn.com/Engineering%20Takes%20Time.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png"
 ---
 
 There's no denying that technology is constantly evolving, and with it, the skills needed to work with it. This can make it difficult for engineers to keep up and can even be overwhelming at times. But despite the ever-changing nature of it, one thing remains constant: the importance of spending time to **learn deeply**.
