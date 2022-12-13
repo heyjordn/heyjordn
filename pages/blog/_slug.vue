@@ -60,14 +60,15 @@ export default {
           property: 'og:site_name',
           content: 'heyjordn.com',
         },
-        {
-          name: 'description',
-          content: this.article.description,
-        },
-        {
-          name: 'og:description',
-          content: this.article.description,
-        },
+        // {
+        //   name: 'description',
+        //   property: 'og:description',
+        //   content: this.article.description,
+        // },
+        // {
+        //   name: 'og:description',
+        //   content: this.article.description,
+        // },
         {
           hid: 'og:type',
           name: 'og:type',
@@ -83,6 +84,11 @@ export default {
           content: `https://heyjordn.com/blog/${this.$route.params.slug}`,
         },
         {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: this.article.title,
+        },
+        {
           hid: 'twitter:image',
           name: 'twitter:image',
           content: this.article.ogImage,
@@ -91,6 +97,11 @@ export default {
           hid: 'twitter:card',
           name: 'twitter:card',
           content: 'summary_large_image',
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: this.article.description,
         },
         {
           property: 'article:published_time',
