@@ -60,23 +60,25 @@ export default {
           property: 'og:site_name',
           content: 'heyjordn.com',
         },
-        // {
-        //   name: 'description',
-        //   property: 'og:description',
-        //   content: this.article.description,
-        // },
-        // {
-        //   name: 'og:description',
-        //   content: this.article.description,
-        // },
+        {
+          name: 'description',
+          property: 'og:description',
+          content: this.article.description,
+        },
+        {
+          name: 'og:description',
+          content: this.article.description,
+        },
         {
           hid: 'og:type',
           name: 'og:type',
           content: 'website',
         },
+        // Whatsapp
         {
           name: 'og:image',
-          itemprop: 'image',
+          property: 'og:image',
+          itemprop: 'og:image',
           content: this.article.ogImage,
         },
         {
