@@ -114,10 +114,12 @@ export default Vue.extend({
         },
         {
           name: 'description',
+          property: 'description',
           content: "Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
         },
         {
           name: 'og:description',
+          property: 'og:description',
           content: "Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
         },
         {
