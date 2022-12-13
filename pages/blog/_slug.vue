@@ -9,7 +9,7 @@
           <h2 class="text-4xl font-bold mb-6">{{ article.title }}</h2>
         </div>
         <div class="flex">
-          <p>{{ formatDate(article.createdAt) }}</p>
+          <p>{{ formatDate(article.date) }}</p>
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@ export default {
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleString('en', options)
     },
   },
   head() {

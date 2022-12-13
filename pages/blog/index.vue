@@ -1,11 +1,9 @@
 <template>
   <div class="w-full">
     <div class="container max-w-3xl mx-auto">
-      <h1 class="text-4xl font-semibold my-8">
-        Latest posts 📖.
-      </h1>
+      <h1 class="text-4xl font-semibold my-8">Latest posts 📖.</h1>
       <ul>
-        <li v-for="article of articles" :key="article.slug" class="my-3">
+        <li v-for="article of articles" :key="article.slug" class="mb-8">
           <div class="flex w-full justify-between">
             <nuxt-link
               :to="{ name: 'blog-slug', params: { slug: article.slug } }"
@@ -13,7 +11,7 @@
               <h2 class="text-lg font-medium">{{ article.title }}</h2>
             </nuxt-link>
             <p class="text-sm text-gray-700">
-              {{ formatDate(article.createdAt) }}
+              {{ formatDate(article.date) }}
             </p>
           </div>
           <img :src="article.img" />
@@ -48,10 +46,11 @@ export default {
         'img',
         'slug',
         'author',
+        'date',
         'createdAt',
         'readTime',
       ])
-      .sortBy('createdAt', 'desc')
+      .sortBy('date', 'asc')
       .fetch()
 
     return {
@@ -61,7 +60,7 @@ export default {
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleString('en', options)
     },
   },
 }

@@ -31,7 +31,7 @@
         <div class="container max-w-3xl mx-auto">
           <h2 class="text-2xl font-semibold my-8">Latest Posts 📖.</h2>
           <ul>
-            <li v-for="article of articles" :key="article.slug" class="my-3">
+            <li v-for="article of articles" :key="article.slug" class="mb-8">
               <div class="flex w-full justify-between">
                 <nuxt-link
                   :to="{ name: 'blog-slug', params: { slug: article.slug } }"
@@ -39,7 +39,7 @@
                   <h2 class="text-lg font-medium">{{ article.title }}</h2>
                 </nuxt-link>
                 <p class="text-sm text-gray-700">
-                  {{ article.date }}
+                  {{ formatDate(article.date) }}
                 </p>
               </div>
               <img :src="article.img" />
@@ -84,7 +84,8 @@ export default Vue.extend({
         'date',
         'readTime',
       ])
-      .sortBy('createdAt', 'desc')
+      .limit(5)
+      .sortBy('date', 'asc')
       .fetch()
 
     return {
@@ -94,7 +95,7 @@ export default Vue.extend({
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleString('en', options)
     },
   },
   head() {
