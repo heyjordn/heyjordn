@@ -76,7 +76,7 @@ export default {
         },
         // Whatsapp
         {
-          name: 'og:image',
+          name: 'image',
           property: 'og:image',
           itemprop: 'og:image',
           content: this.article.ogImage,
@@ -92,7 +92,7 @@ export default {
         },
         {
           hid: 'twitter:image',
-          name: 'twitter:image',
+          name: 'twitter:image:src',
           content: this.article.ogImage,
         },
         {
