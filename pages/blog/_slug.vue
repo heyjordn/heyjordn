@@ -74,6 +74,11 @@ export default {
           name: 'og:type',
           content: 'website',
         },
+        {
+          name: 'image',
+          property: 'og:image',
+          content: this.article.ogImage,
+        },
         // Whatsapp
         {
           name: 'image',
