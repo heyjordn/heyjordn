@@ -2,7 +2,8 @@
 title: "Engineering Takes Time"
 description: "The field of Software Engineering can seem constantly daunting, vast and neverending. If you feel like it's taking a while to get up to speed, you're on the right track."
 readTime: "3 mins"
-date: "Dec 7 2022 10:00:00 AM"
+date: "Dec 7 2022"
+article: 2
 ogImage: "https://og.heyjordn.com/Engineering%20Takes%20Time%20%F0%9F%95%B0%20.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png"
 ---
 

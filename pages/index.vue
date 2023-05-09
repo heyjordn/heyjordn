@@ -51,6 +51,7 @@ export default Vue.extend({
       .only([
         'title',
         'description',
+        'article',
         'img',
         'slug',
         'author',
@@ -59,7 +60,7 @@ export default Vue.extend({
         'readTime',
       ])
       .limit(5)
-      .sortBy('date', 'asc')
+      .sortBy('article', 'desc')
       .fetch()
 
     return {

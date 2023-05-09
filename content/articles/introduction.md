@@ -2,6 +2,7 @@
 title: Try not to get Blogged down
 description: 'Welcome all, to another attempt at the seemingly impossible task of writing a blog, all my notes and thoughts on tech, remote life and the art of writing code.'
 readTime: '5 mins'
+article: 1
 date: "Jul 27 2022"
 ---
 
