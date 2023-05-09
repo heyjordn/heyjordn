@@ -1,35 +1,9 @@
 <template>
   <div class="flex flex-col w-full">
     <div class="flex-auto max-w-3xl mx-auto">
-      <div class="flex flex-col-reverse md:flex-row mt-5">
-        <div class="w-full md:w-3/5">
-          <h2 class="text-4xl md:text-5xl font-bold">Hey 👋</h2>
-          <p>
-            I'm Jordan, a DevOps Engineer at
-            <a href="https://orba.io/" target="_blank" rel="noopener noreferrer"
-              >Orba</a
-            >
-            automating builds and tests for the
-            <a
-              href="https://metroipo.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Metro</a
-            >
-            platform.
-          </p>
-        </div>
-        <div class="flex w-full md:w-2/5 justify-center md:justify-end">
-          <img
-            class="h-40 object-contain rounded-full border-white border-2"
-            src="~/assets/profile.jpeg"
-            alt="Jordan Jones"
-          />
-        </div>
-      </div>
       <div class="w-full">
         <div class="container max-w-3xl mx-auto">
-          <h2 class="text-2xl font-semibold my-8">Latest Posts 📖.</h2>
+          <h2 class="text-2xl font-semibold my-8">Latest 📖</h2>
           <ul>
             <li v-for="article of articles" :key="article.slug" class="mb-8">
               <div class="flex w-full justify-between">
