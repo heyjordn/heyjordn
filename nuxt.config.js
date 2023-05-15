@@ -30,6 +30,7 @@ export default {
   plugins: [
     { src: '@/plugins/calendly.js', mode: 'client' },
     { src: '@/plugins/savvycal.js', mode: 'client' },
+    { src: '@/plugins/googleAnalytics.js', mode: 'client' },
   ],
   /*
    ** Auto import components
