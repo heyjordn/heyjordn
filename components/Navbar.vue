@@ -12,8 +12,8 @@
       <nuxt-link exact-active-class="active-link" class="link" to="/">
         Home
       </nuxt-link>
-      <nuxt-link active-class="active-link" class="link" to="/about">
-        About
+      <nuxt-link active-class="active-link" class="link" to="/blog">
+        Writing
       </nuxt-link>
     </div>
   </div>
