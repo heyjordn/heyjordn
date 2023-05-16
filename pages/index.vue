@@ -2,7 +2,7 @@
   <div>
     <div class="flex flex-col sm:flex-row my-6 md:my-4">
       <div class="text-left">
-        <h1 class="font-bold text-xl mb-3 font-display">Summary 👋</h1>
+        <h1 class="font-bold text-xl mb-3 font-display">Hey There 👋</h1>
         <p class="mb-3">
           I'm Jordan, A Certified DevOps Engineer and a Kubernetes and Cloud
           Native Associate with extensive Software Engineering experience based
@@ -11,7 +11,7 @@
           platforms for companies in North America and the wider Caribbean.
         </p>
         <h2 class="font-bold mb-3 text-xl font-display">Past Experience 💻</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
           <card
             v-for="(card, index) in cards"
             :key="index"
@@ -55,20 +55,22 @@
           CircleCI) and architecting new solutions and system designs, this lead
           me to persue a couple of certifications.
         </p>
-        <ul>
-          <li>
-            <a
-              href="https://www.credly.com/badges/0d965b71-31fd-452d-9544-6b495d16fde0/linked_in?t=rcrcx4"
-              >Jordan Jones - KCNA</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.credly.com/badges/8500304b-30fa-43b0-9bc3-8078fbf3e8eb/linked_in?t=rbttzu"
-              >Jordan Jones - LFS250</a
-            >
-          </li>
-        </ul>
+        <div class="flex mt-4">
+          <a
+            href="https://www.credly.com/badges/0d965b71-31fd-452d-9544-6b495d16fde0/linked_in?t=rcrcx4"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="h-32 mr-4" src="~/assets/kcna.svg" alt="KCNA" />
+          </a>
+          <a
+            href="https://www.credly.com/badges/8500304b-30fa-43b0-9bc3-8078fbf3e8eb/linked_in?t=rbttzu"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="h-32" src="~/assets/lfs250.svg" alt="LFS250" />
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -93,7 +95,7 @@ export default {
           link: 'https://metroipo.com',
           title: 'Metro IPO',
           image: 'https://heyjordn.com/metro.png',
-          body: 'An Initial Public Offer (IPO) underwriting and Private Equity platform designed to interface with the Jamaican Stock Exchange.',
+          body: 'An IPO underwriting and Private Equity platform designed to interface with the Jamaican Stock Exchange.',
           tags: ['#vue', '#laravel', '#livewire'],
         },
         {
@@ -107,7 +109,7 @@ export default {
           link: 'https://orbaone.com/',
           title: 'Orba One',
           image: 'https://heyjordn.com/orbaone.png',
-          body: 'An identity verification and KYC platform, using machine learning for facial recognition.',
+          body: 'An identity verification and KYC platform, using machine learning for facial recognition, hosted on AWS.',
           tags: ['#vue', '#vuex', '#spa'],
         },
         {

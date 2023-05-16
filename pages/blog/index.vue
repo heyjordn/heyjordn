@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <div class="container max-w-3xl mx-auto">
-      <h1 class="text-2xl font-display font-bold my-8">Latest posts 📖.</h1>
+      <h1 class="text-xl font-display font-bold my-8">Latest posts 📖.</h1>
       <ul>
         <li v-for="article of articles" :key="article.slug" class="mb-8">
           <div class="flex w-full justify-between">

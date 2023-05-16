@@ -5,9 +5,7 @@
     target="_blank"
     rel="noopener noreferrer"
   >
-    <div
-      class="max-w-xs mx-auto rounded overflow-hidden shadow-lg bg-white my-2"
-    >
+    <div class="rounded overflow-hidden shadow-lg bg-white">
       <img class="w-full" :src="image" :alt="title" />
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2 text-gray-800 font-display">
