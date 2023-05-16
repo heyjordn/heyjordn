@@ -22,7 +22,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['~/assets/css/fonts.css'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -55,6 +55,8 @@ export default {
     '@nuxtjs/axios',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
+    // Doc: https://github.com/nuxt-modules/fontaine
+    '@nuxtjs/fontaine',
   ],
   /*
    ** Axios module configuration
