@@ -4,6 +4,7 @@ description: 'Welcome all, to another attempt at the seemingly impossible task o
 readTime: '5 mins'
 article: 1
 date: "Jul 27 2022"
+ogImage: "https://og.heyjordn.com/api/og?title=Try%20not%20to%20get%20blogged%20down"
 ---
 
 ## What?

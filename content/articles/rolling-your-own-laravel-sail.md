@@ -4,7 +4,7 @@ description: "Laravel Sail is an amazing tool that simplifies Laravel developmen
 readTime: "3 mins"
 date: "May 9 2023 10:00:00 AM"
 article: 3
-ogImage: "https://og.heyjordn.com/Rolling%20Your%20Own%20Laravel%20Sail%20%E2%9B%B5.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png"
+ogImage: "https://og.heyjordn.com/api/og?title=Rolling%20Your%20Own%20Laravel%20Sail%20⛵"
 ---
 
 Laravel Sail is an amazing tool that simplifies Laravel development by providing a lightweight Docker environment out of the box, which can save us some time. However, in some cases you need more control over the services that Laravel Sail provides. For example, you may want to use a different version of PHP, or you may need to add a service that's not included by default, such as PostgreSQL or Memcached.

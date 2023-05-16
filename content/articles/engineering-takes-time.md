@@ -4,7 +4,7 @@ description: "The field of Software Engineering can seem constantly daunting, va
 readTime: "3 mins"
 date: "Dec 7 2022"
 article: 2
-ogImage: "https://og.heyjordn.com/Engineering%20Takes%20Time%20%F0%9F%95%B0%20.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fheyjordn.com%2Ffavicon-light.png"
+ogImage: "https://og.heyjordn.com/api/og?title=Engineering%20Takes%20Time%20%F0%9F%95%B0%EF%B8%8F"
 ---
 
 There's no denying that technology is constantly evolving, and with it, the skills needed to work with it. This can make it difficult for engineers to keep up and can even be overwhelming at times. But despite the ever-changing nature of it, one thing remains constant: the importance of spending time to **learn deeply**.
