@@ -9,6 +9,7 @@
     font-family: 'CamptonBook';
     src: url('/fonts/CamptonBook.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -16,6 +17,7 @@
     font-family: 'CamptonExtraLight';
     src: url('/fonts/CamptonExtraLight.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -23,6 +25,7 @@
     font-family: 'CamptonMedium';
     src: url('/fonts/CamptonMedium.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -30,6 +33,7 @@
     font-family: 'CamptonThin';
     src: url('/fonts/CamptonThin.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -37,6 +41,7 @@
     font-family: 'CamptonBlackItalic';
     src: url('/fonts/CamptonBlackItalic.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -44,6 +49,7 @@
     font-family: 'CamptonBookItalic';
     src: url('/fonts/CamptonBookItalic.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -51,6 +57,7 @@
     font-family: 'CamptonExtraLightItalic';
     src: url('/fonts/CamptonExtraLightItalic.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -58,6 +65,7 @@
     font-family: 'CamptonMediumItalic';
     src: url('/fonts/CamptonMediumItalic.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -65,6 +73,7 @@
     font-family: 'CamptonThinItalic';
     src: url('/fonts/CamptonThinItalic.otf') format('opentype');
     font-weight: normal;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -72,6 +81,7 @@
     font-family: 'CamptonBold';
     src: url('/fonts/CamptonBold.otf') format('opentype');
     font-weight: bold;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -79,6 +89,7 @@
     font-family: 'CamptonExtraBold';
     src: url('/fonts/CamptonExtraBold.otf') format('opentype');
     font-weight: bold;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -93,6 +104,7 @@
     font-family: 'CamptonSemiBold';
     src: url('/fonts/CamptonSemiBold.otf') format('opentype');
     font-weight: bold;
+    font-display: swap;
     font-style: normal;
 }
 
@@ -100,6 +112,7 @@
     font-family: 'CamptonBoldItalic';
     src: url('/fonts/CamptonBoldItalic.otf') format('opentype');
     font-weight: bold;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -107,6 +120,7 @@
     font-family: 'CamptonExtraBoldItalic';
     src: url('/fonts/CamptonExtraBoldItalic.otf') format('opentype');
     font-weight: extra-bold;
+    font-display: swap;
     font-style: italic;
 }
 
@@ -115,12 +129,14 @@
     src: url('/fonts/CamptonLightItalic.otf') format('opentype');
     font-weight: light;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'CamptonSemiBoldItalic';
     src: url('/fonts/CamptonSemiBoldItalic.otf') format('opentype');
     font-weight: semi-bold;
+    font-display: swap;
     font-style: italic;
 }
 
