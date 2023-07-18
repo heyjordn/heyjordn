@@ -2,7 +2,7 @@
   <div>
     <div class="flex flex-col sm:flex-row my-6 md:my-4">
       <div class="text-left">
-        <h1 class="font-bold text-xl mb-3 font-display">Hey There 👋</h1>
+        <h1 class="font-bold text-5xl mt-10 mb-5 font-display">Hey There 👋</h1>
         <p class="mb-3">
           I'm Jordan, A Certified DevOps Engineer and a Kubernetes and Cloud
           Native Associate with extensive Software Engineering experience based
@@ -10,8 +10,8 @@
           I have over 9 years of professionally developing and deploying
           platforms for companies in North America and the wider Caribbean.
         </p>
-        <h2 class="font-bold mb-3 text-xl font-display">Past Experience 💻</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
+        <h2 class="font-bold mt-10 mb-3 text-3xl font-display">Work 💻</h2>
+        <div class="grid grid-cols-1 gap-8">
           <card
             v-for="(card, index) in cards"
             :key="index"
@@ -26,7 +26,9 @@
     </div>
     <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
       <div class="text-left">
-        <h6 class="font-bold mb-3 text-xl font-display">Open Source 🌐</h6>
+        <h6 class="font-bold mt-10 mb-5 text-3xl font-display">
+          Open Source 🌐
+        </h6>
         <p class="mb-3">
           I experiment and publish tools and example repos for whatever I'm
           working on over at my
@@ -49,7 +51,7 @@
     </div>
     <div class="flex flex-col sm:flex-row my-6 md:my-4 items-center">
       <div class="text-left">
-        <h6 class="font-bold mb-3 text-xl font-display">Certs 📜</h6>
+        <h6 class="font-bold mt-10 mb-5 text-3xl font-display">Certs 📜</h6>
         <p>
           Love cloud native tech (Kubernetes, Terraform, Ansible, Jenkins,
           CircleCI) and architecting new solutions and system designs, this lead
@@ -131,12 +133,12 @@ export default {
   },
   head() {
     return {
-      title: 'Jordan Jones - DevOps Engineer',
+      title: 'Certified DevOps Engineer',
       meta: [
         {
           hid: 'og:title',
           property: 'og:title',
-          content: 'Jordan Jones - DevOps Engineer',
+          content: 'Certified DevOps Engineer',
         },
         {
           hid: 'og:site_name',
@@ -147,13 +149,13 @@ export default {
           name: 'description',
           property: 'description',
           content:
-            'Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.',
+            "I'm Jordan, a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
         },
         {
           name: 'og:description',
           property: 'og:description',
           content:
-            'Jordan Jones is a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.',
+            "I'm Jordan, a Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
         },
         {
           hid: 'og:type',

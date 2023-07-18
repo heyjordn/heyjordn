@@ -63,5 +63,58 @@ export default {
       return new Date(date).toLocaleString('en', options)
     },
   },
+  head() {
+    return {
+      title: 'Certified DevOps Engineer',
+      meta: [
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: 'Certified DevOps Engineer',
+        },
+        {
+          hid: 'og:site_name',
+          property: 'og:site_name',
+          content: 'heyjordn.com',
+        },
+        {
+          name: 'description',
+          property: 'description',
+          content:
+            "I'm Jordan, a A Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
+        },
+        {
+          name: 'og:description',
+          property: 'og:description',
+          content:
+            "I'm Jordan, a Certified DevOps Engineer and a Kubernetes and Cloud Native Associate with extensive Software Engineering experience.",
+        },
+        {
+          hid: 'og:type',
+          name: 'og:type',
+          content: 'website',
+        },
+        {
+          name: 'og:image',
+          itemprop: 'image',
+          content: 'https://og.heyjordn.com/api/og',
+        },
+        {
+          name: 'og:url',
+          content: `https://heyjordn.com/`,
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: 'https://og.heyjordn.com/api/og',
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+      ],
+    }
+  },
 }
 </script>
