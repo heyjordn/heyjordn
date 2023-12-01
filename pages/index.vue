@@ -6,9 +6,11 @@
         <p class="mb-3">
           I'm Jordan, A Certified DevOps Engineer and a Kubernetes and Cloud
           Native Associate with extensive Software Engineering experience based
-          in Kingston, Jamaica. Currently working at Orba on the Metro platform.
-          I have over 9 years of professionally developing and deploying
-          platforms for companies in North America and the wider Caribbean.
+          in Kingston, Jamaica. Currently working at
+          <a href="https://onegreatstudio.com">One Great Studio</a> as the App
+          Team Lead Engineer. I have over 10 years of professionally developing
+          and deploying platforms for companies in North America and the wider
+          Caribbean.
         </p>
         <h2 class="font-bold mt-10 mb-3 text-3xl font-display">Work 💻</h2>
         <div class="grid grid-cols-1 gap-8">
